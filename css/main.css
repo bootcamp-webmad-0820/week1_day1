@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+    color: #181818;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 100;
+    margin-bottom: 40px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+section {
+    background-color: antiquewhite;
+
+
+    border: 1px solid black;
+
+    /* 
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000; 
+    */
+
+    
+    padding: 100px 40px;
+
+    /* 
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+    padding-right: 40px; 
+    */
+
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.bold-text {
+    font-weight: 600;
+}
